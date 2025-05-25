@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example Category on qquart hair</title><link>https://sjin-lim.github.io/qquart.io/categories/example-category/</link><description>Recent content in Example Category on qquart hair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sjin-lim.github.io/qquart.io/categories/example-category/index.xml" rel="self" type="application/rss+xml"/><item><title>최신 교육 일정 정보</title><link>https://sjin-lim.github.io/qquart.io/p/study-schedule/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>https://sjin-lim.github.io/qquart.io/p/study-schedule/</guid><description>&lt;img src="https://sjin-lim.github.io/qquart.io/p/study-schedule/edu_cover.png" alt="Featured image of post 최신 교육 일정 정보" />&lt;link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/main.min.css" rel="stylesheet" />
+&lt;script src="
+https://cdn.jsdelivr.net/npm/fullcalendar@6.1.17/index.global.min.js
+">&lt;/script>
+&lt;div id="calendar">&lt;/div>
+&lt;script>
+document.addEventListener('DOMContentLoaded', function () {
+var calendarEl = document.getElementById('calendar');
+var calendar = new FullCalendar.Calendar(calendarEl, {
+initialView: 'dayGridMonth',
+events: [
+{ title: '미팅', start: '2025-06-01' },
+{ title: '마감일', start: '2025-06-10' }
+]
+});
+calendar.render();
+});
+&lt;/script>
+&lt;style>
+#calendar {
+max-width: 900px;
+margin: 40px auto;
+}
+&lt;/style></description></item><item><title>내가 찾던 추구미 백금발!</title><link>https://sjin-lim.github.io/qquart.io/p/hello-world/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://sjin-lim.github.io/qquart.io/p/hello-world/</guid><description>&lt;img src="https://sjin-lim.github.io/qquart.io/p/hello-world/%EB%B0%B1%EA%B8%88%EB%B0%9C.png" alt="Featured image of post 내가 찾던 추구미 백금발!" />&lt;video autoplay loop muted playsinline width="640" height="360" controls>
+&lt;source src="염색중.mp4" type="video/mp4">
+브라우저가 video 태그를 지원하지 않습니다.
+&lt;/video>
+&lt;p>🪽Platinum Blonde의 매력 🤍&lt;/p>
+&lt;p>🫶🏻셀럽들이 Pick한 컬러 &lt;br>
+🫶🏻피부 톤 ✨ 쿨톤은 투명하게, 웜톤은 개성 있게 &lt;br>
+🫶🏻파스텔부터 비비드까지, 컬러 실험의 베스트 베이스&lt;/p>
+&lt;p>시술 안내
+• 블랙빼기 무제한 — 200,000 &lt;br>
+• 탈색 무제한 — 150,000 &lt;br>
+• 뿌리 탈색 — 100,000 &lt;br>&lt;/p>
+&lt;p>예약은 DM 또는 프로필 링크 클릭!&lt;br>
+.&lt;br>
+.&lt;br>
+.&lt;br>
+.&lt;br>
+.&lt;br>&lt;/p>
+&lt;p>#염색 #탈색 #무제한탈색 #블랙빼기 #백금발 #백금발염색&lt;br>
+#블랙빼기전문 #블랙빼기염색 #양재역미용실 #홍대염색 #양재염색 #금발 #강남미용실 #강남탈색 #아이칠린&lt;br> #뿌리탈색 #뿌리염색 #무제한블랙빼기 #무제한탈색&lt;br>&lt;/p></description></item></channel></rss>
