@@ -1,9 +1,9 @@
 ---
-title: 내가 찾던 추구미 백금발!
-description: 어떤 톤에도 화사한 백금발 모음 zip✨🪄
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: 백금발.png
+title: 최신 교육 일정 정보
+description: 미용 교육 정복하자✨🪄
+slug: study-schedule
+date: 2022-05-06 00:00:00+0000
+image: edu_cover.png
 categories:
     - Example Category
 tags:
